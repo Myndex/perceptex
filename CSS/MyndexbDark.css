@@ -5202,7 +5202,7 @@ z-index: -1;
 margin: 5px -36px;
 text-align: left;
 font-family: Audiowide, Oxanium, Montserrat, sans-serif;
-font-size: 11em;
+font-size: 10em;
 font-weight: 600;
 color: var(--modeMyndexBGlite);
 }
@@ -5297,7 +5297,7 @@ section > h1 {
 
 .headBanner h1.bglite {
 margin: 0 -3vw;
-font-size: 22vw;
+font-size: 20vw;
 }
 
 section h1 {

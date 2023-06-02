@@ -5199,10 +5199,10 @@ REVISED: reduced the #ff channels to #f8 in most cases.
 .headBanner h1.bglite {
 position: absolute;
 z-index: -1;
-margin: 5px -36px;
+margin: -9px -36px;
 text-align: left;
 font-family: Audiowide, Oxanium, Montserrat, sans-serif;
-font-size: 10em;
+font-size: 9.3em;
 font-weight: 600;
 color: var(--modeMyndexBGlite);
 }
